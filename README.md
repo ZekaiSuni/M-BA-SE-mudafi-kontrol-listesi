@@ -13,7 +13,7 @@ Ceza Muhakemesi Kanunu (CMK) soruşturma evresinde görev alan avukatlar ve müd
 
 ## 📌 Teşekkür & Atıf
 
-Bu uygulama; meslektaşımız **Avukat M. Baran Selanik** tarafından titizlikle hazırlanan ve X (Twitter) platformunda kamuoyuyla paylaşılan 8 sayfalık **“Müdafi Kontrol Listesi — CMK Soruşturma Evresi”** dokümanı esas alınarak, karakol ve adliye koridorlarında avukatların en pratik ve hızlı şekilde faydalanabilmesi amacıyla açık kaynaklı bir web aracına dönüştürülmüştür.
+Bu uygulama; **Sayın Avukat M. Baran Selanik** tarafından titizlikle hazırlanan ve X (Twitter) platformunda kamuoyuyla paylaşılan 8 sayfalık **“Müdafi Kontrol Listesi — CMK Soruşturma Evresi”** dokümanı esas alınarak, karakol ve adliye koridorlarında avukatların en pratik ve hızlı şekilde faydalanabilmesi amacıyla açık kaynaklı bir web aracına dönüştürülmüştür.
 
 ---
 

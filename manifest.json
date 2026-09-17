@@ -1,0 +1,17 @@
+{
+  "name": "CMK Müdafi Kontrol Listesi",
+  "short_name": "CMK Müdafi",
+  "description": "Ceza Muhakemesi Kanunu soruşturma evresi müdafi denetim ve kontrol listesi.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#24080d",
+  "theme_color": "#24080d",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

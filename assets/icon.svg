@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#24080d"/>
+      <stop offset="100%" stop-color="#120306"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f5d77f"/>
+      <stop offset="50%" stop-color="#dfb44e"/>
+      <stop offset="100%" stop-color="#9e7925"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bgGrad)"/>
+  <rect x="16" y="16" width="480" height="480" rx="96" fill="none" stroke="url(#goldGrad)" stroke-width="4" stroke-opacity="0.35"/>
+  <g fill="none" stroke="url(#goldGrad)" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="256" y1="88" x2="256" y2="400"/>
+    <circle cx="256" cy="76" r="14" fill="url(#goldGrad)"/>
+    <line x1="184" y1="420" x2="328" y2="420"/>
+    <path d="M220 420 L256 390 L292 420" fill="url(#goldGrad)"/>
+    <line x1="120" y1="170" x2="392" y2="170"/>
+    <line x1="120" y1="170" x2="72" y2="280"/>
+    <line x1="120" y1="170" x2="168" y2="280"/>
+    <path d="M64 280 Q120 316 176 280 Z" fill="#721c2a" fill-opacity="0.8"/>
+    <line x1="392" y1="170" x2="344" y2="280"/>
+    <line x1="392" y1="170" x2="440" y2="280"/>
+    <path d="M336 280 Q392 316 448 280 Z" fill="#721c2a" fill-opacity="0.8"/>
+  </g>
+</svg>

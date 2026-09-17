@@ -1,0 +1,32 @@
+# ══════════════════════════════════════════════════════════════
+# GİZLİLİK VE GÜVENLİK FİLTRESİ (.gitignore)
+# ══════════════════════════════════════════════════════════════
+
+# Yerel ara işlem ve OCR üretim parçacıkları
+strips/
+make_strips.ps1
+PROJE-NOTU.md
+app/
+extract/
+/CMK *.jpg
+
+# İşletim sistemi ve geçici dosyalar
+Thumbs.db
+desktop.ini
+.DS_Store
+*.tmp
+*.log
+
+# Geliştirici ve IDE dosyaları
+.vscode/
+.idea/
+*.swp
+*.bak
+
+# Gizlilik, API anahtarı ve ortam yapılandırmaları
+.env
+.env.*
+*.key
+*.pem
+*.token
+*.p12
